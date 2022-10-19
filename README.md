@@ -10,4 +10,15 @@ An ongoing outbreak of monkeypox, a viral disease, was confirmed in May 2022. Th
 
 Predict Monkey-Pox in different patients using SYNTHETIC dataset generated based on a study published by thebmj: Clinical features and novel presentations of human monkeypox in a central London centre during the 2022 outbreak: descriptive case series.
 
-**3) Dataset description:-**  Dataset consists of a CSV which have a record of 25,000 Patients with their corresponding features and a target variable indicating if the patient has monkeypox or not.
+**3) Dataset description:-**  
+
+Dataset consists of a CSV which have a record of 25,000 Patients with their corresponding features and a target variable indicating if the patient has monkeypox or not.
+
+**3.1) Features:-** Patient_ID, Systemic Illness, Rectal Pain, Sore Throat, Penile Oedema, Oral Lesions, Solitary Lesion, Swollen Tonsils, HIV Infection, and Sexually Transmitted Infection
+
+**3.2) Target Variable:-** MonkeyPox
+
+**4) Acknowledgements:-**
+
+https://www.bmj.com/content/378/bmj-2022-072410
+https://www.bmj.com/company/newsroom/study-finds-important-differences-in-monkeypox-symptoms-between-current-and-previous-outbreaks/
