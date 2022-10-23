@@ -23,3 +23,8 @@ Dataset consists of a CSV which have a record of 25,000 Patients with their corr
 https://www.bmj.com/content/378/bmj-2022-072410
 
 https://www.bmj.com/company/newsroom/study-finds-important-differences-in-monkeypox-symptoms-between-current-and-previous-outbreaks/
+
+# Summary
+
+**a) Best Score:-** 69.36 %
+**b) Best Model:-** Histogram Gradient Boosting Classifier
